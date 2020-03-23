@@ -1,7 +1,7 @@
 export default function About() {
     return (
       <div>
-        <p>This is the about page</p>
+        <p>AmeriPro Inspection Corporation</p>
       </div>
     );
   }
